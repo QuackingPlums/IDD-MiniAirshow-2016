@@ -104,6 +104,18 @@ ul, ol, dl {
   margin-bottom: 20px;
 }
 
+.sup {
+	position: relative;
+	bottom: 0.5em;
+	font-size: 0.8em;
+}
+
+.sub {
+	position: relative;
+	top: 0.3em;
+	font-size: 0.8em;	
+}
+
 
 /* COMMON STYLES */
 
